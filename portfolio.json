@@ -5,24 +5,7 @@
     "desc": "신영밸류배당증권투자신탁(주식) 운용",
     "placeholder": "나비코 미스터빅하키"
   },
-  {
-    "name": "마라톤",
-    "url": "https://marathon.com",
-    "desc": "마라톤 대회 웹사이트 및 참가 신청 플랫폼 제작",
-    "placeholder": "마라톤 대회"
-  },
-  {
-    "name": "밸류그로스",
-    "url": "https://valuegrowth.com",
-    "desc": "가치 성장 투자 및 금융 서비스 홈페이지 제작",
-    "placeholder": "밸류그로스 투자"
-  },
-  {
-    "name": "내일드림",
-    "url": "https://tomorrowdream.co.kr",
-    "desc": "커리어 컨설팅 및 미래 설계 교육 플랫폼 구축",
-    "placeholder": "내일드림 컨설팅"
-  },
+ 
   {
     "name": "현대전기",
     "url": "https://hdcne.co.kr",
